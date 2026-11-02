@@ -8,3 +8,6 @@
 /var/
 /vendor/
 ###< symfony/framework-bundle ###
+
+# Variables locales (secrets) : ne pas versionner
+/.env
